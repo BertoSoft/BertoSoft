@@ -33,4 +33,4 @@ Ayudo a pymes, laboratorios, talleres e ingenierías a sustituir hojas de cálcu
 Realizo desarrollos de software a medida por proyecto cerrado para empresas, laboratorios y consultoras técnicas (aplicaciones de gestión interna en Qt/SQLite, interfaces para instrumentación o apps Android corporativas).
 
 * 📍 **Ubicación:** Galicia, España (trabajo remoto para toda España)
-* 📧 **Contacto:** *(berto.forjan@gmail.com)*
+* 📧 **Contacto:** *berto.forjan@gmail.com*
